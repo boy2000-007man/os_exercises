@@ -53,7 +53,7 @@
 > 
 
 尝试用qemu+gdb（or ECLIPSE-CDT）调试lab1
-- [x]  
+- OK.
 
 > 
 
@@ -72,7 +72,7 @@ struct gatedesc {
     unsigned gd_off_31_16 : 16;        // high bits of offset in segment
 };
 ```
-- [x]  
+- 变量所占用的二进制位.
 
 > 
 
